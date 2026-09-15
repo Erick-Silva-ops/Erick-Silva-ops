@@ -85,7 +85,7 @@
 </p>
 
 <p style="font-size:14.5px; line-height:1.7; color:#E6E6E6;">
-  No meu antigo<strong style="color:#00FF9F;">EMPREGO</strong>, atuei como <em>Analista de Performance Operacional</em>,
+  No meu antigo <strong style="color:#00FF9F;">EMPREGO</strong>, atuei como <em>Analista de Performance Operacional</em>,
   onde desenvolvo automações com <strong>n8n, Python, APIs &amp; WhatsApp</strong>, transformando
   KPIs chatos em dashboards <strong style="color:#FCD34D;">insanos</strong>. Nenhum
   processo manual sobrevive à minha <em>streak de automação</em>.
@@ -140,10 +140,10 @@
 </p>
 
 <p style="font-size:14.5px; line-height:1.7; color:#E6E6E6;">
-  At <strong style="color:#00FF9F;">TMB</strong>, I work as an <em>Operational Performance Analyst</em>,
+  At my previous job at <strong style="color:#00FF9F;">TMB</strong>, I worked as an <em>Operational Performance Analyst</em>,
   building automations with <strong>n8n, Python, APIs &amp; WhatsApp</strong>, turning boring KPIs
   into <strong style="color:#FCD34D;">insane Grafana dashboards</strong>. No manual process survives
-  my automation streak.
+  my <em>automation streak</em>.
 </p>
 
 <p style="font-size:14.5px; line-height:1.7; color:#E6E6E6;">
